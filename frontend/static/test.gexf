@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.1draft" xmlns:ns0="xsi" version="1.1" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.1draft.xsd">
+  <meta lastmodified="2016-04-12T02:13:40.776892">
+    <creator>Gephi.org</creator>
+    <description>A userid network</description>
+  </meta>
+  <graph defaultedgetype="directed" label="A Web network" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="dataclass" title="id category" type="integer"></attribute>
+      <attribute id="datasize" title="id connect" type="integer"></attribute>
+    </attributes>
+    <nodes>
+<node id="1" label="梁勇"><attvalues><attvalue for="datasize" value="5914"/><attvalue for="dataclass" value="5"/></attvalues></node>
+<node id="2" label="子呆不呆"><attvalues><attvalue for="datasize" value="5686"/><attvalue for="dataclass" value="5"/></attvalues></node>
+<node id="3" label="冰咖啡"><attvalues><attvalue for="datasize" value="5622"/><attvalue for="dataclass" value="5"/></attvalues></node>
+   </nodes>
+    <edges>
+<edge id="1" source="1" target="2" weight="1"/>
+<edge id="2" source="2" target="3" weight="1"/>
+   </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,49 @@
+{
+	"name": "根节点",
+	"value": "https://baike.baidu.com/item/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/18763?fr=aladdin",
+	"children": [{
+			"name": "节点1",
+			"value": "",
+			"children": [{
+					"name": "叶子节点1",
+					"value": "http://www.baidu.com"
+
+				},
+				{
+					"name": "叶子节点2",
+					"value": ""
+				},
+				{
+					"name": "叶子节点3",
+					"value": ""
+				}
+			]
+		},
+		{
+			"name": "节点",
+			"value": "",
+			"children": [{
+					"name": "叶子节点4",
+					"value": ""
+				},
+				{
+					"name": "叶子节点5",
+					"value": ""
+				}
+			]
+		},
+		{
+			"name": "节点3",
+			"value": "",
+			"children": [{
+					"name": "叶子节点6",
+					"value": ""
+				},
+				{
+					"name": "叶子节点7",
+					"value": ""
+				}
+			]
+		}
+	]
+}
